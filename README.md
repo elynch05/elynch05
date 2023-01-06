@@ -1,5 +1,6 @@
 ### Hi there 👋
-![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/elliotlynch)
+![elliotlynch](https://road-to-kaggle-grandmaster.vercel.app/api/simple/elliotlynch)
+[![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/elliotlynch/competition)](https://kaggle.com/elliotlynch)
 
 
 
