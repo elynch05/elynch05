@@ -1,6 +1,6 @@
 ### Hi there 👋
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/elliotlynch/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/elliotlynch/dataset/light)
+[competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/elliotlynch/competition/light)
+[dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/elliotlynch/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/elliotlynch/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/elliotlynch/discussion/light)
 
