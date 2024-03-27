@@ -1,7 +1,15 @@
 ### Hi there 👋
 ![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=elynch05&show_icons=true&theme=transparent)
 
+
+
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![R](https://img.shields.io/badge/R-Intermediate-blue)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
+
+
 I'm a data scientist and data analytics professional with a passion for turning data into actionable insights.
+Currently diving deeper into machine learning, focusing on deep learning algorithms with PyTorch.
 
 ## Skills
 
