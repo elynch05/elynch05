@@ -30,9 +30,8 @@ Currently diving deeper into machine learning, focusing on deep learning algorit
 
 | Name                  | Description                                | Tech                          |
 | --------------------- | ------------------------------------------ | ----------------------------- |
-| Project 1             | Description of project 1                     | Python                     |
+| Soccer Data Analysis and Prediction Model            | Analysing soccer player statistics to predict the number of goals a player might score                     | Python                     |
 | Netball Performance Metris             | Objective rankings and performance scores that even out positional rankings and statistics                     | Tableau, Excel                |
-| Project 3             | Description of project 3                     | SQL, Machine learning         |
 
 ## Contact
 
